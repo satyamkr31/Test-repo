@@ -1,1 +1,1 @@
-#This the repo created through git command
+#This is the repo created through git command
